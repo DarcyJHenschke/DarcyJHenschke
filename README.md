@@ -40,6 +40,6 @@
 
 ### :bar_chart: Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarcyJHenschke&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarcyJHenschke&show_icons=true&theme=moltack)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarcyJHenschke&layout=compact&theme=tokyonight&card_width=445)](https://github.com/DarcyJHenschke/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarcyJHenschke&layout=compact&theme=moltack&card_width=445)](https://github.com/DarcyJHenschke/github-readme-stats)
