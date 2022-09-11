@@ -1,4 +1,4 @@
-### Hi, I'm Darcy Henschke 👋
+### Hi, I'm Darcy Henschke
 <div id="socialBadges">
   <a href="www.linkedin.com/in/darcy-henschke-3b55b41b5/">
     <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=38bdae" alt="LinkedIn Badge"/>
